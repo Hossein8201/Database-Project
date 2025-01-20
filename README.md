@@ -95,16 +95,6 @@ The system is implemented in **C programming language** without using any extern
 
 ---
 
-## Guidelines
-- Adhere to the project submission deadline.
-- Ensure code originality to avoid plagiarism penalties.
-- Use the following naming convention for submission: `StudentNumber_FinalProject.zip`.
-
-For assistance, contact:
-- Email: AUTAlgorithmTA@gmail.com
-
----
-
 ## Acknowledgments
 Special thanks to our course instructors and teaching assistants for their guidance throughout the project.
 
